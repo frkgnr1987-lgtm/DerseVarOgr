@@ -1,0 +1,484 @@
+[
+  {
+    "month": "EYLÜL",
+    "weeks": [
+      {
+        "week": "1",
+        "weekRange": "08-12 Eylül",
+        "topics": [
+          {
+            "topic": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+            "learningOutcomes": [
+              "BTY.6.1.1. Yenilikçi bilişim teknolojilerini sınıflandırabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "2",
+        "weekRange": "15-19 Eylül",
+        "topics": [
+          {
+            "topic": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+            "learningOutcomes": [
+              "BTY.6.1.2. Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "3",
+        "weekRange": "22-26 Eylül",
+        "topics": [
+          {
+            "topic": "Dijital Ürün Tasarım ve Geliştirme",
+            "learningOutcomes": [
+              "BTY.6.2.1. Tablolama programlarından yararlanabilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "EKİM",
+    "weeks": [
+      {
+        "week": "4",
+        "weekRange": "29 Eylül-03 Ekim",
+        "topics": [
+          {
+            "topic": "Dijital Ürün Tasarım ve Geliştirme",
+            "learningOutcomes": [
+              "BTY.6.2.2. Tablolama programlarının kullanımına yönelik problemleri belirleyebilme  BTY.6.2.3. Tablolama dosyasında kullanılacak verileri toplayabilme ve düzenleyebilme  BTY.6.2.4. Tablolama programları kullanarak bulgulara ulaşabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "5",
+        "weekRange": "06-10 Ekim",
+        "topics": [
+          {
+            "topic": "Dijital Ürün Tasarım ve Geliştirme",
+            "learningOutcomes": [
+              "BTY.6.2.5. Ses düzenleme programlarından yararlanabilme  BTY.6.2.6. Ses dosyası için kurgu oluşturabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "6",
+        "weekRange": "13-17 Ekim",
+        "topics": [
+          {
+            "topic": "Dijital Ürün Tasarım ve Geliştirme",
+            "learningOutcomes": [
+              "BTY.6.2.7. Ses dosyası geliştirebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "7",
+        "weekRange": "20-24 Ekim",
+        "topics": [
+          {
+            "topic": "Dijital Ürün Tasarım ve Geliştirme",
+            "learningOutcomes": [
+              "BTY.6.2.8. Video düzenleme programlarından yararlanabilme  BTY.6.2.9. Video dosyası için kurgu oluşturabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "8",
+        "weekRange": "27 Ekim-31 Ekim",
+        "topics": [
+          {
+            "topic": "Dijital Ürün Tasarım ve Geliştirme",
+            "learningOutcomes": [
+              "BTY.6.2.10. Video dosyası geliştirebilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "KASIM",
+    "weeks": [
+      {
+        "week": "9",
+        "weekRange": "03-07 Kasım",
+        "topics": [
+          {
+            "topic": "Dijital Ürün Tasarım ve Geliştirme  /  Bilgisayar Ağları ve İletişim",
+            "learningOutcomes": [
+              "BTY.6.2.10. Video dosyası geliştirebilme  BTY.6.3.1. İnternet ile amacına uygun olarak çalışabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "10",
+        "weekRange": "17-21 Kasım",
+        "topics": [
+          {
+            "topic": "Bilgisayar Ağları ve İletişim",
+            "learningOutcomes": [
+              "BTY.6.3.1. İnternet ile amacına uygun olarak çalışabilme   BTY.6.3.2. İletişim teknolojilerini sınıflandırabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "11",
+        "weekRange": "24-28 Kasım",
+        "topics": [
+          {
+            "topic": "Bilgisayar Ağları ve İletişim  /  Bilişim Etiği ve Siber Güvenlik",
+            "learningOutcomes": [
+              "BTY.6.3.3. İletişim teknolojileri ile çalışabilme  BTY.6.4.1. Bilişim etiği kapsamında güvenlik önlemlerini yönetebilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "ARALIK",
+    "weeks": [
+      {
+        "week": "12",
+        "weekRange": "01-05 Aralık",
+        "topics": [
+          {
+            "topic": "Bilişim Etiği ve Siber Güvenlik",
+            "learningOutcomes": [
+              "BTY.6.4.2.Telif hakkı kavramını sorgulayabilme  BTY.6.4.3. Siber ortamda güvenlik önlemlerini yönetebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "13",
+        "weekRange": "08-12 Aralık",
+        "topics": [
+          {
+            "topic": "Bilişim Etiği ve Siber Güvenlik  /  Yapay Zekâ",
+            "learningOutcomes": [
+              "BTY.6.4.4.Kullanım haklarına göre lisans türlerini karşılaştırabilme  BTY.6.5.1. Yapay zekâ girdileri hakkında bilgi toplayabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "14",
+        "weekRange": "15-19 Aralık",
+        "topics": [
+          {
+            "topic": "Yapay Zekâ",
+            "learningOutcomes": [
+              "BTY.6.5.1. Yapay zekâ girdileri hakkında bilgi toplayabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "15",
+        "weekRange": "22-26 Aralık",
+        "topics": [
+          {
+            "topic": "Yapay Zekâ",
+            "learningOutcomes": [
+              "BTY.6.5.2. Yapay zekâ araç ve teknolojileri ile çalışabilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "OCAK",
+    "weeks": [
+      {
+        "week": "16",
+        "weekRange": "29 Aralık-02 Ocak",
+        "topics": [
+          {
+            "topic": "Yapay Zekâ",
+            "learningOutcomes": [
+              "BTY.6.5.2. Yapay zekâ araç ve teknolojileri ile çalışabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "17",
+        "weekRange": "05-09 Ocak",
+        "topics": [
+          {
+            "topic": "Yapay Zekâ",
+            "learningOutcomes": [
+              "BTY.6.5.2. Yapay zekâ araç ve teknolojileri ile çalışabilme  BTY.6.5.3. Yapay zekâ araç ve teknolojileri ile model geliştirebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "18",
+        "weekRange": "12-16 Ocak",
+        "topics": [
+          {
+            "topic": "Yapay Zekâ",
+            "learningOutcomes": [
+              "BTY.6.5.3. Yapay zekâ araç ve teknolojileri ile model geliştirebilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "ŞUBAT",
+    "weeks": [
+      {
+        "week": "19",
+        "weekRange": "02-06 Şubat",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.1. Blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "20",
+        "weekRange": "09-13 Şubat",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.1. Blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "21",
+        "weekRange": "16-20 Şubat",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.1. Blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "22",
+        "weekRange": "23-27 Şubat",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "MART",
+    "weeks": [
+      {
+        "week": "23",
+        "weekRange": "02-06 Mart",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "24",
+        "weekRange": "09-13 Mart",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "25",
+        "weekRange": "23-27 Mart",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "26",
+        "weekRange": "30 Mart-03 Nisan",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "NİSAN",
+    "weeks": [
+      {
+        "week": "27",
+        "weekRange": "06-10 Nisan",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "28",
+        "weekRange": "13-17 Nisan",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "29",
+        "weekRange": "20-24 Nisan",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY.6.6.2. Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme  BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "30",
+        "weekRange": "27 Nisan-01 Mayıs",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "MAYIS",
+    "weeks": [
+      {
+        "week": "31",
+        "weekRange": "04-08 Mayıs",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "32",
+        "weekRange": "11-15 Mayıs",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "33",
+        "weekRange": "18-22 Mayıs",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "HAZİRAN",
+    "weeks": [
+      {
+        "week": "34",
+        "weekRange": "01-05 Haziran",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "35",
+        "weekRange": "08-12 Haziran",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      },
+      {
+        "week": "36",
+        "weekRange": "15-19 Haziran",
+        "topics": [
+          {
+            "topic": "Yazılım Tasarımı ve Programlama",
+            "learningOutcomes": [
+              "BTY6.6.3. Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
